@@ -1,1 +1,1 @@
-# wame-politicas-de-provacidad
+# wame-politicas-de-privacidad
